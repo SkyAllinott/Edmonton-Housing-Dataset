@@ -5,9 +5,9 @@ The following dataset was constructed for my Master's thesis on impacts of LRT s
 
 ## Variables:
 1. **realprice**: The real assessed value of the home, in 2002 dollars.
-2. **neighbourhood**: Neighbourhood name.
+2. **neighbourhood dummies**: Indicator for neighbourhood.
 3. **actualyearbuilt**: Year home was built.
-4. **zoning**: Zoning designation according to City of Edmonton zoning bylaw (https://webdocs.edmonton.ca/InfraPlan/zoningbylaw/Matrix/Matrix_PDF/Zoning_Matrix_Printable.pdf)
+4. **zoning dummies**: Indicator for zoning designations. (https://webdocs.edmonton.ca/InfraPlan/zoningbylaw/Matrix/Matrix_PDF/Zoning_Matrix_Printable.pdf)
 5. **lotsize**: Lot size in square metres.
 6. **garagebinary**: Indicates whether the home has a garage or not.
 7. **distance**: Represents the distance to downtown (approximated by City Hall; calculated by haversine formula and given in kms)
