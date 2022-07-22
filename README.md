@@ -1,4 +1,4 @@
-# City of Edmonton Houses Dataset:
+# City of Edmonton Housing Dataset:
 The following dataset was constructed for my Master's thesis on impacts of LRT stations on housing prices. It originally contained 2.4 million observations from 2012 to 2022 of every property within the City of Edmonton during those years.
 
 **I have subset the data to 10,000 observations (8,000 training observations and 2,000 test observations) in 2019 for future use on alternate models.**
