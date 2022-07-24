@@ -3,6 +3,8 @@ The following dataset was constructed for my Master's thesis on impacts of LRT s
 
 **I have subset the data to 10,000 observations (8,000 training observations and 2,000 test observations) in 2019 for future use on alternate models.**
 
+![edmontonhousingdata](https://user-images.githubusercontent.com/52394699/180631668-776f6203-99ef-4bf8-99c8-ae8102b8fcd3.png)
+
 ## Variables:
 1. **realprice**: The real assessed value of the home, in 2002 dollars.
 2. **neighbourhood dummies**: Indicator for neighbourhood.
